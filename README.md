@@ -1,4 +1,4 @@
-# ABIDE-MIND
+# ASD-MIND
 # Code and Derived Data for MIND-Based ASD Subtyping Analyses
 
 This repository contains the analysis code, key input files, and derived
